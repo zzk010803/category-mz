@@ -52,10 +52,6 @@ Tab-delimited file with columns (case/format flexible):
 * Tannins: 0.5–1.5 & 0.67–1.2
 * Else → `Other`.
 
-## Plot in Origin (optional)
-
-Import `*_percent.csv` → set `MW_bin` as categorical X → Area → **Stack**.
-
 ## Notes
 
 * Change `BIN_WIDTH_DA` for different bin sizes.
