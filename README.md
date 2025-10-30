@@ -42,7 +42,7 @@ Tab-delimited file with columns (case/format flexible):
 * `O/C` (aka `o_c`, `oc`)
 * `H/C` (aka `h_c`, `hc`)
 
-## Classification (H/C–O/C)
+## Classification (H/C & O/C)
 
 * Lipids: 1.5–2.0 & 0–0.3
 * Proteins: 1.5–2.2 & 0.3–0.67
@@ -50,7 +50,7 @@ Tab-delimited file with columns (case/format flexible):
 * Lignins: 0.7–1.5 & 0.1–0.67
 * Condensed Aromatics: 0.2–0.7 & 0–0.67
 * Tannins: 0.5–1.5 & 0.67–1.2
-  Else → `Other`.
+* Else → `Other`.
 
 ## Plot in Origin (optional)
 
